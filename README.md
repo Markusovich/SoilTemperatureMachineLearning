@@ -1,1 +1,3 @@
 # SoilTemperatureDNN
+
+Applied linear regression and deep learning artificial neural networks to predict soil temperature one week in advance. The temperatures along with soil moisture were used by crop scientist and producers to use for decision support regarding planting, fertilizer application and irrigation. The soil temperature for day t+7 was predicted based on the following 10 observed input variables for day t: average wind speed, solar radiation, minimum, average and maximum daily temperature, average relative humidity, average dew point temperature, precipitation, potential evaporation, and average soil temperature.
